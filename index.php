@@ -83,7 +83,7 @@
 <div id="afficheTrajet" ></div>
 <input id='input' name="input" class="input" type="hidden" >
 
-<script type="text/javascript" src="maps.js"></script>
+<script type="text/javascript" src="lomaps.js"></script>
 
 
 
