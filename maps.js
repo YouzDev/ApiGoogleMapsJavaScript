@@ -60,7 +60,7 @@ var image = new google.maps.MarkerImage(
   new google.maps.Size(71, 71),
   new google.maps.Point(0, 0),
   new google.maps.Point(17, 34),
-  new google.maps.Size(35, 35));
+  new google.maps.Size(35, 35)),
 marker.setIcon(image);
 marker.setPosition(place.geometry.location);
 });
@@ -69,7 +69,6 @@ direction = new google.maps.DirectionsRenderer({
   map   : map,
   panel : panel
 });
-
 
 
 }
