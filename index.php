@@ -18,10 +18,7 @@
 
     <div id="map-canvas"></div>
 
-    
-    
-    
-
+  
     <form name="direction" id="direction">
       
      <input type="text" name="origin" id="origin" placeholder="Point de départ">
